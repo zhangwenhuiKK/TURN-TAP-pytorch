@@ -1,4 +1,4 @@
-import somethongstupid
+import som
 import os
 import requests
 import turn_model
